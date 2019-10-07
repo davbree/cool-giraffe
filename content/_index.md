@@ -3,7 +3,7 @@ title: Hugo
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm a Portfolio Theme
+  title: Hi, I'm a Portfolio Th
   section_id: hero
   component: hero_block.html
   content: This section can contain a subtitle or tagline. The recommended length
