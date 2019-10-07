@@ -1,5 +1,5 @@
 ---
-title: Home???
+title: Hugo
 sections:
 - type: heroblock
   template: heroblock
